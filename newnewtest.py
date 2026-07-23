@@ -27,7 +27,7 @@ CONFIG = {
     "end_date": "2023-12-31",
     "total_budget_jp": 6000000,
     "total_budget_us": 60000,
-    "tickers": ["8088.T", "1443.T", "NVDA", "AAPL"],
+    "tickers": ["8088.T"],
     "use_dow_shield": True,
     
     # 動的制御のベースパラメータ
