@@ -512,7 +512,7 @@ def run_practical_dva_experiment(
 
 if __name__ == "__main__":
     run_practical_dva_experiment(
-        tickers=["NVDA", "AAPL", "TSLA", "8088.T", "1443.T"],
+        tickers=["8088.T"],
         start_date="2014-01-01",
         end_date="2023-12-31",
         total_budget_us=60000,
