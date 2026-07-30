@@ -513,8 +513,8 @@ def run_practical_dva_experiment(
 if __name__ == "__main__":
     run_practical_dva_experiment(
         tickers=["3080.T"],
-        start_date="2016-01-01",
-        end_date="2025-12-31",
+        start_date="2007-01-01",
+        end_date="2016-12-31",
         total_budget_us=60000,
         total_budget_jp=6000000,
         score_threshold=0.55,
